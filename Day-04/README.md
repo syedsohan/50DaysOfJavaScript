@@ -4,6 +4,7 @@
 - An extra 0 would be needed if the hours have single digit.
 
 ## Challenges (0/6 done)
+
 - [ ] convertTo24HrsFormat("12:10AM") returns "00:10".
 - [ ] convertTo24HrsFormat("5:00AM") returns "05:00".
 - [ ] convertTo24HrsFormat("12:33PM") returns "12:33".
