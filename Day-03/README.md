@@ -4,6 +4,7 @@
 - A simple approach to reverse a number could also be to convert it in to a string and then reverse it.
 
 ## Challenges (0/3 done)
+
 - [ ] reverseGivenInteger(3849) returns 9483.
 - [ ] reverseGivenInteger(2222) returns 2222.
 - [ ] reverseGivenInteger(1002) returns 2001.
