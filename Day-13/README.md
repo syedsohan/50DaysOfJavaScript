@@ -15,18 +15,18 @@ Given an age in seconds, calculate how old someone would be on:
 
 **Pluto is not a planet.**
 
-So if your function was called with 436575687 as the argument i.e **spaceAge(436575687)** it should return **{ "Mercury": 57.44, "Venus": 22.49, "Earth": 13.83, "Mars": 7.36, "Jupiter": 1.17, "Saturn": 0.47, "Uranus": 0.16, "Neptune": 0.08 }**
+So if your function was called with 436575687 as the argument i.e **spaceAge(436575687)** it should return **{ "Mercury": 57.44, "Venus": 22.49, "Earth": 13.83, "Mars": 7.36, "Jupiter": 1.17, "Saturn": 0.47, "Uranus": 0.16, "Neptune": 0.08 }**.
 
 **IMPORTANT!!**
 
-Your spaceAge function should return the (already given) yearsInAllPlanets object after setting age on each planet (each property of the object)
+Your spaceAge function should return the (already given) yearsInAllPlanets object after setting age on each planet (each property of the object).
 
-THE VALUE OF EACH PROPERTY SHOULD BE A **NUMBER** AND SHOULD HAVE **MAXIMUM 2 DIGITS AFTER THE POINT example 4.34**
+THE VALUE OF EACH PROPERTY SHOULD BE A **NUMBER** AND SHOULD HAVE **MAXIMUM 2 DIGITS AFTER THE POINT example 4.34**.
 
 ## Challenges (0/2 done)
 
-- [ ] spaceAge(436575687) should return { "Mercury": 57.44, "Venus": 22.49, "Earth": 13.83, "Mars": 7.36, "Jupiter": 1.17, "Saturn": 0.47, "Uranus": 0.16, "Neptune": 0.08 }
-- [ ] spaceAge(65965561) should return { 'Mercury': 8.68 'Venus': 3.4 'Earth': 2.09 'Mars': 1.11 'Jupiter': 0.18 'Saturn': 0.07 'Uranus': 0.02 'Neptune': 0.01 }
+- [ ] spaceAge(436575687) should return { "Mercury": 57.44, "Venus": 22.49, "Earth": 13.83, "Mars": 7.36, "Jupiter": 1.17, "Saturn": 0.47, "Uranus": 0.16, "Neptune": 0.08 }.
+- [ ] spaceAge(65965561) should return { 'Mercury': 8.68 'Venus': 3.4 'Earth': 2.09 'Mars': 1.11 'Jupiter': 0.18 'Saturn': 0.07 'Uranus': 0.02 'Neptune': 0.01 }.
 
 ```js
 const spaceAge = (seconds) => {
