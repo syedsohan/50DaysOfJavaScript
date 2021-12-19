@@ -1,6 +1,6 @@
 name: 💡 Feature Request
 description: Have a new idea / feature? Please suggest!
-title: '[FEATURE] <description>'
+title: '[Feature Request] <Suggest an idea for this project>'
 labels: ['⭐ goal: addition']
 body:
   - type: textarea
