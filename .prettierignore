@@ -1,0 +1,5 @@
+<!-- prettier-ignore -->
+
+# Ignore all README files:
+
+*.md
