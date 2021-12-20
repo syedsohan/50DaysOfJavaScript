@@ -1,6 +1,8 @@
 # Write a function to truncate a string to a certain number of words.
 
-- Truncate a string to a certain number of words.
+## Instructions
+
+Truncate a string to a certain number of words.
 
 ## Challenges (0/2 done)
 
