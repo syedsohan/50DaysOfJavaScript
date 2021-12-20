@@ -1,6 +1,6 @@
 # Write a Program to Find the Factorial of a Number.
 
-## Instruction
+## Instructions
 
 The factorial of a number is the product of all the numbers from 1 to that number. For example,
 
