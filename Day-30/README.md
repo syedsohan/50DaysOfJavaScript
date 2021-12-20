@@ -1,6 +1,6 @@
 # Mexican Wave.
 
-## Instruction
+## Instructions
 
 Mexican Wave Origin
 The wave (known as the Mexican wave in the English-speaking world outside North America) is an example of metachronal rhythm achieved in a packed stadium when successive groups of spectators briefly stand, yell, and raise their arms. Immediately upon stretching to full height, the spectator returns to the usual seated position.
