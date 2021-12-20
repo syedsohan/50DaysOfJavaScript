@@ -1,5 +1,7 @@
 # Function which returns a random number in the given range.
 
+## Instructions
+
 Create a function which returns a random number in the given range of values both inclusive.
 
 ## Challenges (0/2 done)
