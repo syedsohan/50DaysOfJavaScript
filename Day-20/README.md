@@ -1,6 +1,6 @@
 # Add two numbers.
 
-## Instruction
+## Instructions
 
 Add two numbers
 
