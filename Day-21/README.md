@@ -1,5 +1,7 @@
 # Union of Two Arrays.
 
+## Instructions
+
 Write the code for the function which returns the the union of the two given arrays.
 
 ## Challenges (0/2 done)
