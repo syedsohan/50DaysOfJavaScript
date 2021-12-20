@@ -1,6 +1,8 @@
 # Longest Consecutive Sequence.
 
-- Given an array of elements, find a subsequence in the array such that all the elements in the sequence are consecutive irrespective of their order.
+## Instructions
+
+Given an array of elements, find a subsequence in the array such that all the elements in the sequence are consecutive irrespective of their order.
 
 ## Example
 
