@@ -1,6 +1,6 @@
 # Resistor Color map.
 
-## Instruction
+## Instructions
 
 If you want to build something using a Raspberry Pi, you'll probably use resistors. For this exercise, you need to know two things about them:
 
