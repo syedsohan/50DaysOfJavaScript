@@ -1,6 +1,6 @@
 # Find the odd int.
 
-## Instruction
+## Instructions
 
 Given an array of integers, find the one that appears an odd number of times.
 
