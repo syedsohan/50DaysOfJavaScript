@@ -1,6 +1,8 @@
 # Write a function to remove array element based on object property?
 
-- How to remove array element based on object property?
+## Instructions
+
+How to remove array element based on object property?
 
 ## Challenges (0/3 done)
 
