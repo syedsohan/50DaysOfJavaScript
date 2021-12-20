@@ -1,6 +1,8 @@
 # Return the N-th value of the Fibonacci sequence.
 
-- Return the N-th value of the Fibonacci sequence.
+## Instructions
+
+Return the N-th value of the Fibonacci sequence.
 
 ## Challenges (0/1 done)
 
