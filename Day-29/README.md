@@ -1,5 +1,7 @@
 # Mumbling.
 
+## Instructions
+
 Each char becomes `n*chars` where n is the index + 1, and the first char is capitalized divided by `-` instead of space.
 
 Only alphabets are passed as arguments for the `accum(s)` function.
