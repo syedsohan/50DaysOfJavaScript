@@ -8,11 +8,11 @@ Examples
 
 `[2, 4, 0, 100, 4, 11, 2602, 36]`
 
-`Should return: 11 (the only odd number)`
+`Should return: 11 (the only odd number).`
 
 `[160, 3, 1719, 19, 11, 13, -21]`
 
-`Should return: 160 (the only even number)`
+`Should return: 160 (the only even number).`
 
 ## Challenges (0/3 done)
 
