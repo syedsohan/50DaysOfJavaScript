@@ -1,4 +1,4 @@
-# 50 Days of JavaScript! | [codedamn](https://codedamn.com/50-days-of-js)
+# 50 Days of JavaScript! 2021| [codedamn](https://codedamn.com/50-days-of-js)
 
 <div align="center">
 <a href="https://codedamn.com/50-days-of-js"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fcodedamn.com%2Fassets%2Fimages%2F50daysofjs%2Fjs.gif&w=640&q=75" alt="50 Days of JavaScript!"></a>
