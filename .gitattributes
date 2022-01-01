@@ -12,6 +12,7 @@
 *.mov binary
 *.mp3 binary
 *.mp4 binary
+*.pdf binary
 *.png binary
 *.ttf binary
 *.woff binary
